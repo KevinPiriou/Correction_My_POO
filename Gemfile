@@ -1,0 +1,7 @@
+source 'https://rubygems.org'
+ruby '2.5.1'
+gem 'rspec'
+gem 'pry'
+gem 'rubocop'
+gem 'colorize'
+gem 'better_errors'
