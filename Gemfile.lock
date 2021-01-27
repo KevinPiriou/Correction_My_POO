@@ -49,7 +49,8 @@ GEM
     unicode-display_width (2.0.0)
 
 PLATFORMS
-  x86-linux
+  ruby
+  x86_64-linux
 
 DEPENDENCIES
   better_errors
@@ -59,7 +60,7 @@ DEPENDENCIES
   rubocop
 
 RUBY VERSION
-   ruby 2.5.1p57
+   ruby 2.7.1p83
 
 BUNDLED WITH
-   2.2.6
+   2.2.5
